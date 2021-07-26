@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/openFragment">
+
+    <fragment
+        android:id="@+id/openFragment"
+        android:name="com.programmalar.pdpgramm.fragments.OpenFragment"
+        android:label="fragment_open"
+        tools:layout="@layout/fragment_open" />
+    <fragment
+        android:id="@+id/registrationFragment"
+        android:name="com.programmalar.pdpgramm.fragments.RegistrationFragment"
+        android:label="fragment_registration"
+        tools:layout="@layout/fragment_registration" />
+    <fragment
+        android:id="@+id/chatsFragment"
+        android:name="com.programmalar.pdpgramm.fragments.ChatsFragment"
+        android:label="fragment_chats"
+        tools:layout="@layout/fragment_chats" />
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.programmalar.pdpgramm.fragments.ChatFragment"
+        android:label="fragment_chat"
+        tools:layout="@layout/fragment_chat" />
+    <fragment
+        android:id="@+id/userAccountFragment"
+        android:name="com.programmalar.pdpgramm.fragments.UserAccountFragment"
+        android:label="fragment_user_account"
+        tools:layout="@layout/fragment_user_account" />
+    <fragment
+        android:id="@+id/chatGroupFragment"
+        android:name="com.programmalar.pdpgramm.fragments.ChatGroupFragment"
+        android:label="fragment_chat_group"
+        tools:layout="@layout/fragment_chat_group" />
+</navigation>

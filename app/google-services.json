@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310341299573",
+    "project_id": "pdp-gramm-d0e1c",
+    "storage_bucket": "pdp-gramm-d0e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310341299573:android:6605f4907d69434eba373c",
+        "android_client_info": {
+          "package_name": "com.programmalar.pdpgramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310341299573-ectgbtidjtn0gfg7pklprnatd47o9iqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxWCn4F22D-dt5sQYQyeG0oqltyc6eOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310341299573-ectgbtidjtn0gfg7pklprnatd47o9iqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/copy_to1"
+    android:icon="@drawable/ic_copy"
+    android:title="Copy"/>
+    <item android:id="@+id/copy1_to1"
+        android:icon="@drawable/ic_copy__1_"
+        android:title="Copy and past"/>
+
+</menu>
